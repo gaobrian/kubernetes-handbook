@@ -1,4 +1,6 @@
-## 深入理解 Istio中的Sidecar注入与流量劫持
+## 深入理解Istio Service Mesh中的Envoy Sidecar注入与流量劫持
+
+**注意：本书中的 Service Mesh 章节已不再维护，请转到 [istio-handbook](https://jimmysong.io/istio-handbook) 中浏览。**
 
 在讲解 Istio 如何将 Envoy 代理注入到应用程序 Pod 中之前，我们需要先了解以下几个概念：
 
